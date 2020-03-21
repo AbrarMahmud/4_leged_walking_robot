@@ -1,2 +1,2 @@
-# 4_leged_walking_robot
-arduino Uno based walking robot_beginnerLevel
+# home_projects
+arduino Uno based robots
